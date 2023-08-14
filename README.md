@@ -1,4 +1,4 @@
-# upskii_campus_python_project
+# upskill_campus_python_project
 Password manager
 
 This password manager is based on AES-256 Encryption,
