@@ -28,7 +28,7 @@ Securely manage and store your passwords with this simple Python-based Password 
 ### Installation
 
 1. Install dependencies:
-   pip install -r requirements.txt
+   pip install -r `requirements.txt`
 2. Set up your MySQL database from `database_schema.sql` and update the database configuration in `config.py`.
 
 ### Usage
