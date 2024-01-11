@@ -1,0 +1,2 @@
+mysql-connector-python==8.0.23
+pycryptodome==3.10.4
